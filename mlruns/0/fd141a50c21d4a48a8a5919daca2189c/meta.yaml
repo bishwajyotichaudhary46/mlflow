@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Full%20Stack%20Data%20Science/ML/Project/mlflow/mlruns/0/fd141a50c21d4a48a8a5919daca2189c/artifacts
+end_time: 1687089616336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd141a50c21d4a48a8a5919daca2189c
+run_name: luminous-mouse-265
+run_uuid: fd141a50c21d4a48a8a5919daca2189c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687089616289
+status: 3
+tags: []
+user_id: acer

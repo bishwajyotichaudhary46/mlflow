@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Full%20Stack%20Data%20Science/ML/Project/mlflow/mlruns/0/f15493ff6a9641658d6b49f17edc83e1/artifacts
+end_time: 1687089738948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f15493ff6a9641658d6b49f17edc83e1
+run_name: amusing-wasp-650
+run_uuid: f15493ff6a9641658d6b49f17edc83e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687089738823
+status: 3
+tags: []
+user_id: acer
